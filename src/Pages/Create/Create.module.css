@@ -1,0 +1,61 @@
+.cretebox{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid black;
+}
+.cretebox>h1{
+  
+   font-size: 1.5rem;
+    text-align: center;
+}
+.cretebox>input{
+   width: 90%;
+   height: 35px;
+
+}
+.cretebox>textarea{
+    width: 90%;
+    height: 350px;
+    margin-top: 15px;
+ }
+ .cretebox>button{
+    width: 20%;
+    height: 35px;
+    margin: 20px;
+ }
+
+ @media screen and (max-width: 780px) {
+    .cretebox{
+        width: 90%;
+        margin: auto;
+        margin-top: 50px;
+        text-align: center;
+        border: 1px solid black;
+    }
+    .cretebox>h1{
+      
+       font-size: 1.5rem;
+        text-align: center;
+    }
+    .cretebox>input{
+       width: 90%;
+       height: 35px;
+    
+    }
+    .cretebox>textarea{
+        width: 90%;
+        height: 350px;
+        margin-top: 15px;
+     }
+     .cretebox>button{
+        width: 20%;
+        height: 35px;
+        margin: 20px;
+     }
+
+
+
+
+ }

@@ -1,0 +1,35 @@
+.logincon{
+    max-width: 350px;
+   padding: 15px;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid rgb(210, 205, 205);
+   border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.logincon>input{
+    height: 30px;
+    width: 100%;
+    margin: auto;
+    margin-top: 15px;
+    border: 1px solid rgb(221, 224, 221);
+    border-radius: 3px;
+  
+}
+.logincon>button{
+    height: 30px;
+    width: 20%;
+    margin: auto;
+    margin-top: 15px;
+    border: 1px solid rgb(221, 224, 221);
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.logincon>div{
+height: 30px;
+width: 100%;
+margin-top: 30px;
+font-size: 0.7rem;
+  
+}
