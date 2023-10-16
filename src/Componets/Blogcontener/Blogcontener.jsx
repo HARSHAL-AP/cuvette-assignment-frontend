@@ -3,7 +3,7 @@ import Style from "../Blogcontener/Blogcontener.module.css"
 import { Link } from 'react-router-dom'
 
 const Blogcontener = ({obj}) => {
-
+ console.log(obj)
   const handleObj=()=>{
     localStorage.setItem("item",JSON.stringify(obj))
   }
